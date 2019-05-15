@@ -18,10 +18,13 @@ Section 25
 
 ## NPM packages installed
 
-nodemon
+1) nodemon
 
-parser-
+2) body-parser (to run body-parser, change package.json's "scripts" to 
+"scripts": {
+    "start": "nodemon server.js"
+  },
 
-express
+3) express
 
 
