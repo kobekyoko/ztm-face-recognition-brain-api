@@ -25,6 +25,10 @@ Section 25
     "start": "nodemon server.js"
   },
 
-3) express
+3) expressjs
+
+4) bycript (to protect user passwords by encrypting)
+
+https://www.npmjs.com/package/bcrypt
 
 
