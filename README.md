@@ -31,4 +31,5 @@ Section 25
 
 https://www.npmjs.com/package/bcrypt
 
+5) cors
 
