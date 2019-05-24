@@ -2,10 +2,9 @@
 
 Back end of face recognition app (react app)
 
-## ★ONGOING PROJECT as is May 15, 2019
+## ★ONGOING PROJECT as is May 24, 2019
 
 Udemy: The Complete Webdevelopment in 2019: Zero to Mastery
-Section 25
 
 250 Setting up our server
 
@@ -15,6 +14,12 @@ Section 25
 
 -used POSTMAN to check if everything is working all right
 -run localhost to check the current status
+
+~260 
+-added CORS
+-connected to Front-End
+
+274~ Creating the database, and connect it to the server
 
 ## NPM packages installed
 
@@ -32,4 +37,9 @@ Section 25
 https://www.npmjs.com/package/bcrypt
 
 5) cors
+
+6) knex
+https://knexjs.org/
+
+7)pg
 
