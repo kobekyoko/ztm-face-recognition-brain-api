@@ -41,5 +41,5 @@ https://www.npmjs.com/package/bcrypt
 6) knex
 https://knexjs.org/
 
-7)pg
+7) pg
 
